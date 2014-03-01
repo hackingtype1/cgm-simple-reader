@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGVDownloader", "EGVDownloader\EGVDownloader.csproj", "{8F811E22-62F3-41E3-9192-40AE298A93CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DexcomWrapperTests", "DexcomWrapperTest\DexcomWrapperTests.csproj", "{811E613F-0892-47D5-A9CE-EA567E2E72A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DexcomCMD", "DexcomCMD\DexcomCMD.csproj", "{9080D8EA-2645-4397-8B95-FF2F053ACCDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F811E22-62F3-41E3-9192-40AE298A93CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F811E22-62F3-41E3-9192-40AE298A93CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F811E22-62F3-41E3-9192-40AE298A93CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F811E22-62F3-41E3-9192-40AE298A93CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{811E613F-0892-47D5-A9CE-EA567E2E72A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811E613F-0892-47D5-A9CE-EA567E2E72A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811E613F-0892-47D5-A9CE-EA567E2E72A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811E613F-0892-47D5-A9CE-EA567E2E72A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9080D8EA-2645-4397-8B95-FF2F053ACCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9080D8EA-2645-4397-8B95-FF2F053ACCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9080D8EA-2645-4397-8B95-FF2F053ACCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9080D8EA-2645-4397-8B95-FF2F053ACCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
