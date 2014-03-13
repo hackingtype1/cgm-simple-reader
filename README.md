@@ -1,5 +1,10 @@
 cgm-simple-reader
 =================
+Using Windows 8 compatible DLLs from Dexcom Studio 12.0.4.6 will allow this application to work with Windows 8,
+no other changes have been required.
+
+Makes a mobile windows 8 option a possibility with newer 8"  (win 8 "pro") tablets. any LTE pro tablets out there?
+
 Reads from a connected receiver and generates a CSV for easy reuse. The file contains headers, so it should be pretty straightforward.
 
 EGVDownloader Project is missing the Dexcom DLLs... You will need to install Dexcom Studio and manually fix/add the references to the following DLLs:
